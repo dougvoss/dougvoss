@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dougvoss/dougvoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there I'm Douglas Voss, living on Brazil, I was born in 1988
+
+ - 🔭 Now, i'm working as a backend programmer. 
+ - 🌱 Always learning about programming languages.
+ - 👯 I'm looking to collaborate on any issue that I can help.
+ - 😄 Here's a funny fact, i'm a musician on weekends.
