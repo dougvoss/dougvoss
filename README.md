@@ -8,13 +8,13 @@
 
 ## About me
    
-<div style="display: inline_block; width: 50%">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/dougvoss">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dougvoss&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougvoss&layout=compact&theme=darcula"/>
+  <img height="165em" width="49%" src="https://github-readme-stats.vercel.app/api?username=dougvoss&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="165em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougvoss&layout=compact&theme=darcula"/>
 </div>
 
-<div style="display: inline_block; width: 50%" align="center"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
