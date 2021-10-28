@@ -8,7 +8,7 @@
 
 ## About me
    
-<div align="center">
+<div>
   <a href="https://github.com/dougvoss">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dougvoss&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougvoss&layout=compact&theme=darcula"/>
